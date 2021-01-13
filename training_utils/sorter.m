@@ -15,13 +15,13 @@ for i = 1:length(gTruth.DataSource.Source)
     
     img = imresize(img,[576 768],'bilinear');
     
-    if contains(name,'CNV')
-        imwrite(img,['dataset\CNV\' name '.png'],'PNG');    
-    elseif contains(name,'DME')
-        imwrite(img,['dataset\DME\' name '.png'],'PNG');
-    elseif contains(name,'NORMAL')
-        imwrite(img,['dataset\NORMAL\' name '.png'],'PNG');
-    elseif contains(name,'DRUSEN')
-        imwrite(img,['dataset\DRUSEN\' name '.png'],'PNG');
-    end
+%    if contains(name,'CNV')
+%        imwrite(img,['dataset\CNV\' name '.png'],'PNG');    
+%    elseif contains(name,'DME')
+%        imwrite(img,['dataset\DME\' name '.png'],'PNG');
+%    elseif contains(name,'NORMAL')
+%        imwrite(img,['dataset\NORMAL\' name '.png'],'PNG');
+%    elseif contains(name,'DRUSEN')
+%        imwrite(img,['dataset\DRUSEN\' name '.png'],'PNG');
+%    end
 end
