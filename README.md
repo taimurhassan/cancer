@@ -4,7 +4,7 @@
 <p align="justify">
 This repository contains the implementation of our paper titled "Autonomous Extraction of Gleason Patterns for Grading Prostate Cancer using Multi-Gigapixel Whole Slide Images" currently under review in IEEE International Conference on Image Processing (ICIP) 2021</p>
 
-![PF](/images/Fig2.png) 
+![PF](/images/BD.png) 
 <p align="center"> Block Diagram of the Proposed Framework</p>
 
 The proposed framework is developed using <b>TensorFlow 2.3.1</b> and <b>Keras APIs</b> with <b>Python 3.7.8</b>. Moreover, some preprocessing steps and result compilation is performed through <b>MATLAB R2020a</b> as well. The detailed steps for installing and running the code are presented below:
