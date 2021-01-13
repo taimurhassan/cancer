@@ -2,7 +2,7 @@ clc
 clear all
 close all
 
-pn = 'images\train_images\';
+pn = 'images\'; % create images folder in the same directory. Also create another folder with the name 'Resized' in which the resized images will be saved 
 
 imagefiles = dir([pn '*.png']);
 
