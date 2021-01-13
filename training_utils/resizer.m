@@ -2,7 +2,7 @@ clc
 clear all
 close all
 
-pn = 'C:\isbi\trainingDataset\train_images\';
+pn = 'images\train_images\';
 
 imagefiles = dir([pn '*.png']);
 
