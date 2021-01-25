@@ -1,8 +1,8 @@
-# Autonomous Extraction of Gleason Patterns for Grading Prostate Cancer using Multi-Gigapixel Whole Slide Images
+# A Dilated Residual Hierarchically Fashioned Segmentation Framework for Extracting  Gleason Tissues and Grading Prostate Cancer from Whole Slide Images
 
 ## Introduction
 <p align="justify">
-This repository contains the implementation of our paper titled "Autonomous Extraction of Gleason Patterns for Grading Prostate Cancer using Multi-Gigapixel Whole Slide Images" currently under review in IEEE International Conference on Image Processing (ICIP) 2021</p>
+This repository contains the implementation of our paper titled "A Dilated Residual Hierarchically Fashioned Segmentation Framework for Extracting  Gleason Tissues and Grading Prostate Cancer from Whole Slide Images" currently under review in IEEE International Conference on Image Processing (ICIP) 2021</p>
 
 ![PF](/images/BD.png) 
 <p align="center"> Block Diagram of the Proposed Framework</p>
@@ -84,7 +84,7 @@ If you use the proposed framework (or any part of this code in your research), p
 
 ```
 @article{Hassan2021Cancer,
-  title   = {Autonomous Extraction of Gleason Patterns for Grading Prostate Cancer using Multi-Gigapixel Whole Slide Images},
+  title   = {A Dilated Residual Hierarchically Fashioned Segmentation Framework for Extracting  Gleason Tissues and Grading Prostate Cancer from Whole Slide Images},
   author  = {Taimur Hassan and Ayman El-Baz and Naoufel Werghi},
   note = {arXiv:2011.00527, 2021}
 }
