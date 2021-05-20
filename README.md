@@ -2,7 +2,7 @@
 
 ## Introduction
 <p align="justify">
-This repository contains the implementation of our paper titled "A Dilated Residual Hierarchically Fashioned Segmentation Framework for Extracting  Gleason Tissues and Grading Prostate Cancer from Whole Slide Images" currently under review in IEEE International Conference on Image Processing (ICIP) 2021</p>
+This repository contains the implementation of our paper titled "A Dilated Residual Hierarchically Fashioned Segmentation Framework for Extracting  Gleason Tissues and Grading Prostate Cancer from Whole Slide Images"</p>
 
 ![PF](/images/BDN.png) 
 <p align="center"> Block Diagram of the Proposed Framework</p>
