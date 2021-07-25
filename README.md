@@ -86,7 +86,7 @@ If you use the proposed framework (or any part of this code in your research), p
 ```
 @article{Hassan2021Cancer,
   title   = {A Dilated Residual Hierarchically Fashioned Segmentation Framework for Extracting  Gleason Tissues and Grading Prostate Cancer from Whole Slide Images},
-  author  = {Taimur Hassan and Ayman El-Baz and Naoufel Werghi},
+  author  = {Taimur Hassan and Bilal Hassan and Ayman El-Baz and Naoufel Werghi},
   note = {16th IEEE Sensors Applications Symposium (SAS), 2021}
 }
 ```
